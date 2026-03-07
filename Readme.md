@@ -14,9 +14,8 @@ This story blends memory, emotion, and subtle symbolism to remind us that true l
 <b> 2. </b> <a target="_blank" rel="noopener noreferrer" href="https://books.google.co.in/books/about?id=zgZ0EQAAQBAJ">Google Books</a>
 <b> 3. </b> <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf">Github</a>
 <b> 4. </b> <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/the-river-between-us--by-ravin-kumar">Archive.org</a>
-<b> 5. </b> <a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/892078204/The-River-Between-Us-By-Ravin-Kumar">Scribd</a>
+<b> 5. </b> <a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/1009108034/The-River-Between-Us-By-Ravin-Kumar">Scribd</a>
 <b> 6. </b> <a target="_blank" rel="noopener noreferrer" href="https://leanpub.com/the_river_between_us__by_ravin_kumar">Leanpub</a>
-<b> 7. </b><a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ch.ravinkumar/the-river-between-us-because-even-rivers-choose-love-70d73ceff427">Medium</a>
 </p>
 <br/>
 <br/>
@@ -44,7 +43,7 @@ This story blends memory, emotion, and subtle symbolism to remind us that true l
 <b> 1. </b> <a target="_blank" rel="noopener noreferrer" href="https://mr-ravin.github.io/Aakhiri_Himmat.pdf">Github</a>
 <b> 2. </b> <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/Aakhiri-Himmat">Archive.org</a>
 <b> 3. </b><a target="_blank" rel="noopener noreferrer" href="https://medium.com/@ch.ravinkumar/%E0%A4%86%E0%A4%96%E0%A4%BC%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%A4-2a4052e8b454">Medium</a>
-<b> 4. </b><a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/900517148/%E0%A4%86%E0%A4%96-%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE-%E0%A4%AE%E0%A4%A4-Aakhiri-Himmat">Scribd</a>
+<b> 4. </b><a target="_blank" rel="noopener noreferrer" href="https://www.scribd.com/document/1009107123/%E0%A4%86%E0%A4%96-%E0%A4%BF%E0%A4%B0%E0%A5%80-%E0%A4%B9%E0%A4%BF%E0%A4%AE-%E0%A4%AE%E0%A4%A4-Aakhiri-Himmat">Scribd</a>
 </p>
 <br/>
 <br/>

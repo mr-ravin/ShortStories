@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/RavinWritings/static/css/main.a571c5a8.css",
-    "main.js": "/RavinWritings/static/js/main.f4d28cda.js",
-    "static/js/453.2ea7f6db.chunk.js": "/RavinWritings/static/js/453.2ea7f6db.chunk.js",
+    "main.js": "/RavinWritings/static/js/main.c406cc68.js",
+    "static/js/453.8bd30fb6.chunk.js": "/RavinWritings/static/js/453.8bd30fb6.chunk.js",
     "static/media/The_River_Between_Us__by_Ravin_Kumar.pdf": "/RavinWritings/static/media/The_River_Between_Us__by_Ravin_Kumar.6d2fe3567306d49fea17.pdf",
     "static/media/Aakhiri_Himmat.pdf": "/RavinWritings/static/media/Aakhiri_Himmat.2ba759f2c069ea53f82b.pdf",
     "static/media/Bas_Insaan.pdf": "/RavinWritings/static/media/Bas_Insaan.c39e0387158cba95d1fe.pdf",
     "index.html": "/RavinWritings/index.html",
     "main.a571c5a8.css.map": "/RavinWritings/static/css/main.a571c5a8.css.map",
-    "main.f4d28cda.js.map": "/RavinWritings/static/js/main.f4d28cda.js.map",
-    "453.2ea7f6db.chunk.js.map": "/RavinWritings/static/js/453.2ea7f6db.chunk.js.map"
+    "main.c406cc68.js.map": "/RavinWritings/static/js/main.c406cc68.js.map",
+    "453.8bd30fb6.chunk.js.map": "/RavinWritings/static/js/453.8bd30fb6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a571c5a8.css",
-    "static/js/main.f4d28cda.js"
+    "static/js/main.c406cc68.js"
   ]
 }

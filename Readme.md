@@ -1,7 +1,6 @@
 <h1><b><i> Short Stories </i></b></h1>
 <br/>
-<b><u>1. <a href="https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf" target="_blank" rel="noopener noreferrer" style={{color:"black"}}>The River Between Us: Because Even Rivers Choose Love</a></u></b>.<br/>
-    
+<b><u>1. <a href="https://mr-ravin.github.io/The_River_Between_Us__by_Ravin_Kumar.pdf" target="_blank" rel="noopener noreferrer" style={{color:"black"}}>The River Between Us: Because Even Rivers Choose Love</a></u></b>.<br/><br/>
 <p align="justify">
 The River Between Us is a poetic and heartwarming romantic short story by <a href="https://mr-ravin.github.io" target="_blank" rel="noopener noreferrer">Ravin Kumar</a>, exploring the quiet power of childhood connection, fate, and timeless love. Set across a serene village and a modern cruise ship, the story follows Ravin and Pooja—two soulmates bound by paper boats, a copper ring, and a mysterious letter “R”. As life separates them and time flows on like a river, a quiet reunion unfolds through symbols, silence, and destiny.
 
